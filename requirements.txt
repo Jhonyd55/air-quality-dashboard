@@ -1,0 +1,7 @@
+dash==2.18.2
+dash-leaflet==1.0.15
+pandas==2.0.3
+plotly==6.0.0
+ast
+datetime
+requests==2.31.0
