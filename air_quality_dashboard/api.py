@@ -5,7 +5,7 @@ import pandas as pd
 # Clase para interactuar con la API de OpenAQ
 class AirQualityAPI:
     BASE_URL = "https://api.openaq.org/v3"
-    TU_API_KEY = "19bf755399d667822b7060216f064f913a6b4894a9de42102cd42e370762060b"  # Reemplaza con tu clave de API de OpenAQ
+    TU_API_KEY = "escribe tu clave de OPENAQ AQUI"  # Reemplaza con tu clave de API de OpenAQ
 
     @staticmethod
     def get_nearby_stations(lat, lon, radius=25000):
